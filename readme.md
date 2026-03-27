@@ -1,7 +1,7 @@
 hola gaaaaaaa
 =======
 # Ubuntu + Git Docker Environment
-
+gooooo
 ## Descripción
 
 Este proyecto define una imagen Docker basada en Ubuntu que incluye Git instalado y el sistema actualizado. El objetivo es proporcionar un entorno reproducible para practicar comandos básicos de Docker y Git.
