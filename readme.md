@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hola gaaaaaaa
 =======
 # Ubuntu + Git Docker Environment
@@ -127,4 +126,3 @@ curl --version
 ## Autor
 
 Proyecto utilizado con fines educativos.
->>>>>>> 5a6fb2ddb2f96826ddac53ce3ee184d885bd99c0
