@@ -1,4 +1,3 @@
-hola gaaaaaaa
 =======
 # Ubuntu + Git Docker Environment
 
