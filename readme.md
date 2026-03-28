@@ -119,7 +119,8 @@ docker run -it ubuntu-git
 ```
 curl --version
 ```
-
+4. Crear un conflicto entrando mediante ssh
+5. Solucionar el conflicto del git
 ---
 
 ## Autor
